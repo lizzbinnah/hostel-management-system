@@ -1,2 +1,3 @@
 # hostel-management-system
-just another repository
+
+A system to manage hostels across all the kenyan universities
