@@ -124,9 +124,7 @@ check_login();
 
 </body>
 
-<div class="foot"><footer>
-<p> Subscribe to  <a href="https://youtube.com/technicalbabaji1" target="_blank">Technical Babaji</p>
-</footer> </div>
+
 
 
 <style> .foot{text-align: center; border: 1px solid black;}</style>
